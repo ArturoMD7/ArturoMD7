@@ -24,7 +24,7 @@
   
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,unity,java,js,html,vscode,ccs,django,androidstudio,flask,flutter,linux,postman,tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=git,py,unity,java,js,html,vscode,django,androidstudio,flask,flutter,linux,postman,tensorflow,ccs"/>
   </a>
 </p>
 
