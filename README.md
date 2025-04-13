@@ -31,10 +31,16 @@
 <br>
 
 <h3>Statistical Data :</h3>
-<p><img align="center"
+<p><img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ArturoMD7&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="arturo-mtz" 
-    bg_color=#808080/></p>
+    bg_color=#808080/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArturoMD7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+</p>
+
+
 
 <br>
 
